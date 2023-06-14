@@ -1,0 +1,4 @@
+    Científico ("Científico"),
+    Literario ("Literario"),
+    Biografía ("Biografía"),
+    Monografía ("Monografía");

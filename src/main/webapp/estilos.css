@@ -1,0 +1,39 @@
+.encabezado{
+    font-size: 300%;
+    text-align: center;
+    font-family: "Arial Black";
+}
+.centrar{
+    text-align: center;
+    align-content: center;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+.subtitulo{
+    text-align: center;
+    font-family: "Arial Narrow";
+    font-size: 200%;
+}
+.campoTexto{
+    width: 10%;
+    height: 3%;
+}
+.texto{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkcyan;
+}
+.body{
+    background-color: azure;
+}
+.boton{
+    width: max-content;
+    background-color: #faf7c3;
+    border-radius: 12px;
+
+    font-size: 100%;
+    align-content: center;
+    color: black;
+}
+.boton:hover {
+    background-color: #4CAF50; /* Cambia el color al pasar el cursor sobre el botón */
+    color: whitesmoke;
+}
