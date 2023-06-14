@@ -17,11 +17,12 @@
 <form action="categoria" method="post">
     <div class="centrar">
         <label>Categoria: </label>
+
         <input name="categoria" type="text" class="campoTexto">
-        <br>
+        <br><br>
         <input type="submit" value="Enviar" class="boton">
     </div>
 </form>
-<a class="centrar" href="index.jsp">Volver</a>
+<a class="backBoton" href="index.jsp">Volver</a>
 </body>
 </html>

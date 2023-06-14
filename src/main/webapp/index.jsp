@@ -7,6 +7,7 @@
 </head>
 <body class="body">
 <h1 class="encabezado">Biblioteca</h1>
+
 <h2 class="subtitulo">Seleccione:</h2>
 
 <br>
@@ -27,7 +28,7 @@
 
 <br>
 
-<form action="libro" method="get">
+<form action="buscar" method="get">
   <div class="centrar">
     <input type="submit" value="Buscar Libro" class="boton">
   </div>
@@ -35,7 +36,7 @@
 
 <br>
 
-<form action="libro" method="get">
+<form action="#" method="get">
   <div class="centrar">
     <input type="submit" value="Eliminar Libro" class="boton">
   </div>

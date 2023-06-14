@@ -14,6 +14,6 @@
 <body>
 <h1 class="texto">Cambios agregados correctamente</h1>
 <br><br>
-<a class="centrar" href="index.jsp">Volver al menu</a>
+<a class="backBoton" href="index.jsp">Volver al menu</a>
 </body>
 </html>
